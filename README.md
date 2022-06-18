@@ -6,7 +6,7 @@ This project is a porting for Linux/*nix of https://github.com/rajivvishwa/apk2j
 
 Introduction
 --------------------
-This script decompiles an apk to its corresponding java sources. Security code review can be done on theses generated application source files so as to identify any potential vulnerabilities present.
+This script decompiles an apk to its corresponding java sources. be done on theses generated application source files so as to identify any potential vulnerabilities present.
 This is not made to encourage piracy/plagiarism.
 
  ***This script just automates the sequence in which various tools are initiated and does not handle any error events. You will have to go through the cmd verbose to figure out the problem.***
